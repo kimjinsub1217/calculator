@@ -11,7 +11,8 @@
         android:theme="@style/Theme.Toyproject004calculator">
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.Toyproject004calculator.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
